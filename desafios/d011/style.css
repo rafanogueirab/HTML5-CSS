@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+    background-image: url('imagens/espaco.jpg');
+}
+
+#ast{
+    background-image: url('imagens/astronauta.png');
+}
